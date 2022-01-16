@@ -1,0 +1,25 @@
+
+
+.profileInfo{
+    display:flex;
+    margin: 20px;
+}
+
+.profileInfo_img{
+    width: 200px;
+    
+}
+
+.profileInfo_items{
+    margin:20px;
+}
+
+.profileInfo button , .photoInput{
+         border:none;
+        outline: none;
+        background-color: aqua;
+        cursor: pointer; 
+        margin: 20px;   
+       
+
+}

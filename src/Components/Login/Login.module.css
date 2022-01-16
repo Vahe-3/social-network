@@ -1,0 +1,86 @@
+.login{
+    width: 300px;
+    height: 300px;
+    
+    background-color:#1c1e21;
+    
+}
+
+.login h2 {
+    text-align: center;
+    color:aqua;
+}
+
+.login div{
+    margin: 20px;
+    display: flex;
+    justify-content: center;
+}
+
+.errorImage {
+    width: 20px;
+    margin-left: 120px;
+    
+    position: absolute;
+    
+    
+}
+
+
+
+.loginInput ,
+.passwordInput{
+    
+    height: 40px;
+    border-bottom: 1px solid aqua;
+
+}
+
+
+.login input{
+    border:none;
+    background-color: #1c1e21;
+    outline: none;
+    color: white;
+}
+
+
+
+
+.submitButton button{
+    border:none;
+    outline: none;
+    width: 80px;
+    height: 30px;
+    margin-top: 30px;
+    background-color: aqua;
+    cursor: pointer;
+    
+    
+}
+
+
+.submitButton button:hover{
+    background-color: rgb(68, 68, 68);
+    color: rgb(255, 255, 255);
+}
+
+.errorDiv p{
+    color: red;
+    position: absolute;
+    
+  }
+
+.errorDiv{
+      color: red;;
+}
+
+.rememberMeInput h3 {
+    color: aqua;
+    
+}
+
+.rememberMeInput input {
+    margin-right:10px;
+    margin-top: 25px;
+}

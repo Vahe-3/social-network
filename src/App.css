@@ -1,0 +1,43 @@
+body{
+  background-color: #1c1e21;
+  color:white
+}
+
+a{
+  color: white;
+  
+}
+
+a:hover{
+  color:aqua
+}
+
+
+.active{
+  color: aqua;
+  
+}
+
+.app{
+  display:grid;
+  grid-template-rows: 150px 100% ;
+  
+}
+
+.main{
+  
+    
+    background-color:#1c1e21 ;
+    width:80%;
+    margin:0 auto;
+    
+
+}
+
+.app_login{
+  display: flex;
+  justify-content: center;
+  margin-top: 300px;
+}
+
+

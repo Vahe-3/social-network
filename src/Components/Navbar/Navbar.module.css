@@ -1,0 +1,32 @@
+.navbar{
+    background-color: #1c1e21;
+    margin-top: 100px;
+    border-top:2px solid aqua;
+}
+
+.navbarItems{
+    display: flex;
+    margin:10px;
+    width: 300px;
+    
+    
+}
+
+.navbarItems  div  a{
+    
+    margin:10px;
+    text-decoration: none;
+    
+    
+    
+}
+
+
+.navbarItems div{
+    margin: 0 20px  0 20px;
+    
+    
+}
+
+
+

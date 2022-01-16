@@ -1,0 +1,13 @@
+.person{
+    display: flex;
+    margin: 20px;
+}
+
+.person_fullName{
+    margin:20px;
+}
+
+.person_img img{
+    width:80px;
+    border-radius: 50%;
+}

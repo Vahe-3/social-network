@@ -1,0 +1,19 @@
+.newsItem{
+    
+    padding: 20px;
+    margin: 30px;
+    background-color: rgb(32, 32, 32);
+    
+    
+    
+}
+
+.newsItem div {
+    margin: 20px;;
+}
+
+.newsItem img{
+    width: 700px;
+    
+    
+}

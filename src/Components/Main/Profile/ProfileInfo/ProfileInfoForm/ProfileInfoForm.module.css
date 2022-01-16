@@ -1,0 +1,38 @@
+.profileInfoForm{
+    margin:20px;
+    
+    
+}
+
+.profileInfoForm button{
+    margin-top: 20px;
+    border:none;
+    outline: none;
+    width: 100px;
+    height: 30px;
+    background-color: aqua;
+    cursor: pointer;
+
+}
+
+.profileInfoForm  button:hover{
+    background-color: rgb(68, 68, 68);
+    color: rgb(255, 255, 255);
+}       
+ 
+.profileInfoForm div{
+    margin: 10px;
+}
+
+.profileInfoForm input ,textarea {
+    border:none;
+    background-color: #1c1e21;
+    outline: none;
+    color: white;
+    border-bottom: 1px solid aqua;
+}
+
+.profileInformation {
+    border-right: 1px solid white;
+}
+

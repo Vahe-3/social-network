@@ -1,0 +1,19 @@
+.status{
+    margin: 20px;
+}
+
+.status span {
+    font-size: 20px;
+    margin: 10px;
+}
+
+.status button{
+    margin: 10px;
+    
+        border:none;
+        outline: none;
+        
+        background-color: aqua;
+        cursor: pointer;
+        
+}

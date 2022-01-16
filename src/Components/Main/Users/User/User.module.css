@@ -1,0 +1,19 @@
+.user{
+    display: flex;
+    margin:20px;
+}
+
+.userLink {
+    text-decoration: none;
+}
+
+.user_img img{
+    width: 100px;
+    
+}
+
+.user_info {
+    margin:20px;
+    
+}
+
